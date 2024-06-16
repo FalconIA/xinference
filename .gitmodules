@@ -1,0 +1,3 @@
+[submodule "whl"]
+	path = whl
+	url = https://github.com/FalconIA/pypi-repo.git
